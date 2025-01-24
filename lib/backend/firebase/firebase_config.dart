@@ -5,7 +5,7 @@ Future initFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: const FirebaseOptions(
-            apiKey: "AIzaSyDuqFKrra8KdHK41hDF4RvelGBIMvOH7X8",
+            apiKey: "SECRET",
             authDomain: "pdp-voting-page.firebaseapp.com",
             projectId: "pdp-voting-page",
             storageBucket: "pdp-voting-page.firebasestorage.app",
