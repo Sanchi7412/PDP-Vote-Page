@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "teamScores",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "team_name",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "turn",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234573015999",
+    "project_id": "pdp-voting-page",
+    "storage_bucket": "pdp-voting-page.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234573015999:android:4b7e32626aa45d7ea18f0a",
+        "android_client_info": {
+          "package_name": "com.mycompany.projectdevpracrticevotingpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgyP56CZj6q3AZ5N071HLZgjSU4gXEiVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
