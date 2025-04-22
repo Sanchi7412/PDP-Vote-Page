@@ -5,12 +5,12 @@ Googleアカウントにログインした後にチームを選択すると、�
 また、自分のチームへの評価やコメントはリアルタイムに反映され、平均点等々が分かりやすいようにグラフ化されています。
 
 ## 取り組んだ場所
-使用ツール: FlutterFlow
-フロント/バック: Dart(Flutter)
-認証: Firebase Auth
-DB: Firebase firestore
-開発ツール: FlutterFlow
-FlutterFlowにてローコード開発を行いました。
+- 使用ツール: FlutterFlow
+- フロント/バック: Dart(Flutter)
+- 認証: Firebase Auth
+- DB: Firebase firestore
+- 開発ツール: FlutterFlow   
+FlutterFlowにてローコード開発を行いました。  
 
 ## 動作
 _*現在公開されている者は、評価終了後の静態状態です！！*_
